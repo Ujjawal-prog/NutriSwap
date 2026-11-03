@@ -1,3 +1,4 @@
+[NutriSwap_RnD_Report.pdf](https://github.com/user-attachments/files/34331824/NutriSwap_RnD_Report.pdf)
 For working project prototype: https://nutri-swap.vercel.app/
 
 
