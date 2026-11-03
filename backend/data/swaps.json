@@ -1,0 +1,8 @@
+{
+  "refined flour": {"to": "whole-wheat flour", "kcal": -8, "protein": 1, "fiber": 8, "why": "Slower glucose rise, far more fibre"},
+  "rice": {"to": "brown rice", "kcal": -7, "protein": 0, "fiber": 1.4, "why": "Keeps the bran, so a gentler sugar spike"},
+  "cream": {"to": "low-fat curd", "kcal": -280, "protein": 3, "fiber": 0, "why": "Same creamy body, a fraction of the fat"},
+  "paneer": {"to": "tofu", "kcal": -190, "protein": -10, "fiber": 1, "why": "Lighter option when you want fewer calories"},
+  "butter": {"to": "olive oil", "kcal": -150, "protein": 0, "fiber": 0, "why": "Swaps saturated fat for unsaturated fat"},
+  "ghee": {"to": "mustard oil (small amount)", "kcal": -60, "protein": 0, "fiber": 0, "why": "Less saturated fat per spoon"}
+}

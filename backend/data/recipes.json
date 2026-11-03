@@ -1,0 +1,10 @@
+[
+  {"id": 1, "name": "Paneer Pepper Rice Bowl", "emoji": "🍚", "time": 25, "kcal": 520, "need": ["rice", "paneer", "capsicum", "onion", "garlic"]},
+  {"id": 2, "name": "Dal Tadka", "emoji": "🍲", "time": 30, "kcal": 310, "need": ["toor dal", "onion", "tomato", "garlic", "ghee"]},
+  {"id": 3, "name": "Aloo Paratha", "emoji": "🫓", "time": 35, "kcal": 420, "need": ["refined flour", "potato", "onion", "butter"]},
+  {"id": 4, "name": "Palak Paneer", "emoji": "🥬", "time": 30, "kcal": 380, "need": ["spinach", "paneer", "onion", "cream", "tomato"]},
+  {"id": 5, "name": "Veg Pulao", "emoji": "🍛", "time": 30, "kcal": 410, "need": ["rice", "carrot", "peas", "onion", "ghee"]},
+  {"id": 6, "name": "Tomato Egg Curry", "emoji": "🍳", "time": 20, "kcal": 290, "need": ["egg", "tomato", "onion", "garlic"]},
+  {"id": 7, "name": "Mushroom Garlic Stir-fry", "emoji": "🍄", "time": 15, "kcal": 180, "need": ["mushroom", "garlic", "onion", "capsicum"]},
+  {"id": 8, "name": "Curd Rice", "emoji": "🥣", "time": 10, "kcal": 260, "need": ["rice", "curd", "lemon"]}
+]
