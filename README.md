@@ -1,4 +1,4 @@
-For working prototype: https://nutri-swap.vercel.app/
+For working project prototype: https://nutri-swap.vercel.app/
 
 
 
